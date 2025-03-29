@@ -6,7 +6,6 @@ Este é o meu portfólio pessoal, onde você pode conhecer mais sobre minha traj
 - HTML5
 - CSS3
 - JavaScript
-- GitHub Pages (para hospedagem)
 
 ## Como Visualizar
 O site está disponível através do GitHub Pages. Você pode acessá-lo no seguinte link:
