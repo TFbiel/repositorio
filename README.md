@@ -10,7 +10,7 @@ Este é o meu portfólio pessoal, onde você pode conhecer mais sobre minha traj
 
 ## Como Visualizar
 O site está disponível através do GitHub Pages. Você pode acessá-lo no seguinte link:
-[https://seunome.github.io/portfolio](https://seunome.github.io/portfolio)
+basta clicar no link no lado direito ou acessar https://repositorio-gamma-seven.vercel.app
 
 ## Como Rodar Localmente
 
